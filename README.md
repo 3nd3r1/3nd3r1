@@ -1,6 +1,6 @@
 # Viljami Ranta (3nd3r1) 💀☠️☠️
 
-My portfolio [here](https://ender.fi.
+My portfolio [here](https://ender.fi).
 
 - 🔭 I’m currently working on [Vebbi](https://vebbi.fi).
 - 🌱 Studying CS at the Universiy of Helsinki.
