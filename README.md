@@ -1,10 +1,10 @@
 # Viljami Ranta (3nd3r1) 💀☠️☠️
 
-My portfolio [here](https://ender.fi).
+📫 [viljamiranta.fi](https://ender.fi)
 
-- 🔭 I’m currently working on [Vebbi](https://vebbi.fi).
-- 🌱 Studying CS at the Universiy of Helsinki.
+🌱 Studying CS at [University of Helsinki](https://www.helsinki.fi/en)
 
+🔭 Founder of [Vebbi](https://vebbi.fi)
 
 <!--
 **3nd3r1/3nd3r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
