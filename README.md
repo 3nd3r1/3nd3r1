@@ -4,6 +4,8 @@
 
 🌱 Studying CS at [University of Helsinki](https://www.helsinki.fi/en)
 
+👯 My [.dotfiles](https://github.com/3nd3r1/.dotfiles)
+
 🔭 Founder of [Vebbi](https://vebbi.fi)
 
 <!--
