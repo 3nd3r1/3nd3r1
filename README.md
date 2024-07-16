@@ -1,12 +1,9 @@
-# Viljami Ranta (3nd3r1) 💀☠️☠️
+# Viljami Ranta (3nd3r1)
 
-📫 [viljamiranta.fi](https://ender.fi)
-
-🌱 Studying CS at [University of Helsinki](https://www.helsinki.fi/en)
-
-👯 My [.dotfiles](https://github.com/3nd3r1/.dotfiles)
-
-🔭 Founder of [Vebbi](https://vebbi.fi)
+- [viljamiranta.fi](https://ender.fi)
+- Studying CS at [University of Helsinki](https://www.helsinki.fi/en)
+- My [.dotfiles](https://github.com/3nd3r1/.dotfiles)
+- Founder of [Vebbi](https://vebbi.fi)
 
 <!--
 **3nd3r1/3nd3r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
