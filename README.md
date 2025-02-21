@@ -1,15 +1,15 @@
 ![cooltext474321571983312](https://github.com/user-attachments/assets/5b533acb-4e04-4413-b81e-4b147e1f23fe)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3nd3r1&label=Profile%20views&color=0e75b6&style=flat" alt="3nd3r1" /> </p>
 
-- 🔭 SWE Trainee at **Ericsson**
+- Software Engineer at **Ericsson**
 
-- 🌱 Studying Computer Science at **University of Helsinki**
+- Computer Science at **University of Helsinki**
 
-- 🤝 Founder of [Vebbi](https://vebbi.fi)
+- Founder of [Vebbi](https://vebbi.fi)
 
-- 👨‍💻 All of my projects are available at [https://viljamiranta.fi](https://viljamiranta.fi)
+- My portfolio: [https://viljamiranta.fi](https://viljamiranta.fi)
 
--  📝 My dotfiles are available at [.dotfiles](https://github.com/3nd3r1/.dotfiles)
+- My dotfiles: [dotfiles.ender.fi](https://dotfiles.ender.fi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
